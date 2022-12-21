@@ -1,0 +1,15 @@
+C:\Users\Edlejo\source\repos\CSharpBasics\01_DelegatesUndEvents\bin\Debug\net6.0\01_DelegatesUndEvents.exe
+C:\Users\Edlejo\source\repos\CSharpBasics\01_DelegatesUndEvents\bin\Debug\net6.0\01_DelegatesUndEvents.deps.json
+C:\Users\Edlejo\source\repos\CSharpBasics\01_DelegatesUndEvents\bin\Debug\net6.0\01_DelegatesUndEvents.runtimeconfig.json
+C:\Users\Edlejo\source\repos\CSharpBasics\01_DelegatesUndEvents\bin\Debug\net6.0\01_DelegatesUndEvents.dll
+C:\Users\Edlejo\source\repos\CSharpBasics\01_DelegatesUndEvents\bin\Debug\net6.0\01_DelegatesUndEvents.pdb
+C:\Users\Edlejo\source\repos\CSharpBasics\01_DelegatesUndEvents\obj\Debug\net6.0\01_DelegatesUndEvents.csproj.AssemblyReference.cache
+C:\Users\Edlejo\source\repos\CSharpBasics\01_DelegatesUndEvents\obj\Debug\net6.0\01_DelegatesUndEvents.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Edlejo\source\repos\CSharpBasics\01_DelegatesUndEvents\obj\Debug\net6.0\01_DelegatesUndEvents.AssemblyInfoInputs.cache
+C:\Users\Edlejo\source\repos\CSharpBasics\01_DelegatesUndEvents\obj\Debug\net6.0\01_DelegatesUndEvents.AssemblyInfo.cs
+C:\Users\Edlejo\source\repos\CSharpBasics\01_DelegatesUndEvents\obj\Debug\net6.0\01_DelegatesUndEvents.csproj.CoreCompileInputs.cache
+C:\Users\Edlejo\source\repos\CSharpBasics\01_DelegatesUndEvents\obj\Debug\net6.0\01_DelegatesUndEvents.dll
+C:\Users\Edlejo\source\repos\CSharpBasics\01_DelegatesUndEvents\obj\Debug\net6.0\refint\01_DelegatesUndEvents.dll
+C:\Users\Edlejo\source\repos\CSharpBasics\01_DelegatesUndEvents\obj\Debug\net6.0\01_DelegatesUndEvents.pdb
+C:\Users\Edlejo\source\repos\CSharpBasics\01_DelegatesUndEvents\obj\Debug\net6.0\01_DelegatesUndEvents.genruntimeconfig.cache
+C:\Users\Edlejo\source\repos\CSharpBasics\01_DelegatesUndEvents\obj\Debug\net6.0\ref\01_DelegatesUndEvents.dll

@@ -1,0 +1,15 @@
+C:\Users\Edlejo\source\repos\CSharpBasics\02_NullConditional\bin\Debug\net6.0\02_NullConditional.exe
+C:\Users\Edlejo\source\repos\CSharpBasics\02_NullConditional\bin\Debug\net6.0\02_NullConditional.deps.json
+C:\Users\Edlejo\source\repos\CSharpBasics\02_NullConditional\bin\Debug\net6.0\02_NullConditional.runtimeconfig.json
+C:\Users\Edlejo\source\repos\CSharpBasics\02_NullConditional\bin\Debug\net6.0\02_NullConditional.dll
+C:\Users\Edlejo\source\repos\CSharpBasics\02_NullConditional\bin\Debug\net6.0\02_NullConditional.pdb
+C:\Users\Edlejo\source\repos\CSharpBasics\02_NullConditional\obj\Debug\net6.0\02_NullConditional.csproj.AssemblyReference.cache
+C:\Users\Edlejo\source\repos\CSharpBasics\02_NullConditional\obj\Debug\net6.0\02_NullConditional.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Edlejo\source\repos\CSharpBasics\02_NullConditional\obj\Debug\net6.0\02_NullConditional.AssemblyInfoInputs.cache
+C:\Users\Edlejo\source\repos\CSharpBasics\02_NullConditional\obj\Debug\net6.0\02_NullConditional.AssemblyInfo.cs
+C:\Users\Edlejo\source\repos\CSharpBasics\02_NullConditional\obj\Debug\net6.0\02_NullConditional.csproj.CoreCompileInputs.cache
+C:\Users\Edlejo\source\repos\CSharpBasics\02_NullConditional\obj\Debug\net6.0\02_NullConditional.dll
+C:\Users\Edlejo\source\repos\CSharpBasics\02_NullConditional\obj\Debug\net6.0\refint\02_NullConditional.dll
+C:\Users\Edlejo\source\repos\CSharpBasics\02_NullConditional\obj\Debug\net6.0\02_NullConditional.pdb
+C:\Users\Edlejo\source\repos\CSharpBasics\02_NullConditional\obj\Debug\net6.0\02_NullConditional.genruntimeconfig.cache
+C:\Users\Edlejo\source\repos\CSharpBasics\02_NullConditional\obj\Debug\net6.0\ref\02_NullConditional.dll

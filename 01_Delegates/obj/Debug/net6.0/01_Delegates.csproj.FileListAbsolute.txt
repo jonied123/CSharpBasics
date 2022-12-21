@@ -1,0 +1,15 @@
+C:\Users\Edlejo\source\repos\CSharpBasics\01_Delegates\bin\Debug\net6.0\01_Delegates.exe
+C:\Users\Edlejo\source\repos\CSharpBasics\01_Delegates\bin\Debug\net6.0\01_Delegates.deps.json
+C:\Users\Edlejo\source\repos\CSharpBasics\01_Delegates\bin\Debug\net6.0\01_Delegates.runtimeconfig.json
+C:\Users\Edlejo\source\repos\CSharpBasics\01_Delegates\bin\Debug\net6.0\01_Delegates.dll
+C:\Users\Edlejo\source\repos\CSharpBasics\01_Delegates\bin\Debug\net6.0\01_Delegates.pdb
+C:\Users\Edlejo\source\repos\CSharpBasics\01_Delegates\obj\Debug\net6.0\01_Delegates.csproj.AssemblyReference.cache
+C:\Users\Edlejo\source\repos\CSharpBasics\01_Delegates\obj\Debug\net6.0\01_Delegates.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Edlejo\source\repos\CSharpBasics\01_Delegates\obj\Debug\net6.0\01_Delegates.AssemblyInfoInputs.cache
+C:\Users\Edlejo\source\repos\CSharpBasics\01_Delegates\obj\Debug\net6.0\01_Delegates.AssemblyInfo.cs
+C:\Users\Edlejo\source\repos\CSharpBasics\01_Delegates\obj\Debug\net6.0\01_Delegates.csproj.CoreCompileInputs.cache
+C:\Users\Edlejo\source\repos\CSharpBasics\01_Delegates\obj\Debug\net6.0\01_Delegates.dll
+C:\Users\Edlejo\source\repos\CSharpBasics\01_Delegates\obj\Debug\net6.0\refint\01_Delegates.dll
+C:\Users\Edlejo\source\repos\CSharpBasics\01_Delegates\obj\Debug\net6.0\01_Delegates.pdb
+C:\Users\Edlejo\source\repos\CSharpBasics\01_Delegates\obj\Debug\net6.0\01_Delegates.genruntimeconfig.cache
+C:\Users\Edlejo\source\repos\CSharpBasics\01_Delegates\obj\Debug\net6.0\ref\01_Delegates.dll
