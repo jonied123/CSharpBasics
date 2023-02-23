@@ -1,0 +1,15 @@
+C:\Users\Edlejo\source\repos\CSharpBasics\03_InterpolationString\bin\Debug\net6.0\03_InterpolationString.exe
+C:\Users\Edlejo\source\repos\CSharpBasics\03_InterpolationString\bin\Debug\net6.0\03_InterpolationString.deps.json
+C:\Users\Edlejo\source\repos\CSharpBasics\03_InterpolationString\bin\Debug\net6.0\03_InterpolationString.runtimeconfig.json
+C:\Users\Edlejo\source\repos\CSharpBasics\03_InterpolationString\bin\Debug\net6.0\03_InterpolationString.dll
+C:\Users\Edlejo\source\repos\CSharpBasics\03_InterpolationString\bin\Debug\net6.0\03_InterpolationString.pdb
+C:\Users\Edlejo\source\repos\CSharpBasics\03_InterpolationString\obj\Debug\net6.0\03_InterpolationString.csproj.AssemblyReference.cache
+C:\Users\Edlejo\source\repos\CSharpBasics\03_InterpolationString\obj\Debug\net6.0\03_InterpolationString.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Edlejo\source\repos\CSharpBasics\03_InterpolationString\obj\Debug\net6.0\03_InterpolationString.AssemblyInfoInputs.cache
+C:\Users\Edlejo\source\repos\CSharpBasics\03_InterpolationString\obj\Debug\net6.0\03_InterpolationString.AssemblyInfo.cs
+C:\Users\Edlejo\source\repos\CSharpBasics\03_InterpolationString\obj\Debug\net6.0\03_InterpolationString.csproj.CoreCompileInputs.cache
+C:\Users\Edlejo\source\repos\CSharpBasics\03_InterpolationString\obj\Debug\net6.0\03_InterpolationString.dll
+C:\Users\Edlejo\source\repos\CSharpBasics\03_InterpolationString\obj\Debug\net6.0\refint\03_InterpolationString.dll
+C:\Users\Edlejo\source\repos\CSharpBasics\03_InterpolationString\obj\Debug\net6.0\03_InterpolationString.pdb
+C:\Users\Edlejo\source\repos\CSharpBasics\03_InterpolationString\obj\Debug\net6.0\03_InterpolationString.genruntimeconfig.cache
+C:\Users\Edlejo\source\repos\CSharpBasics\03_InterpolationString\obj\Debug\net6.0\ref\03_InterpolationString.dll

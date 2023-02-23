@@ -1,0 +1,15 @@
+C:\Users\Edlejo\source\repos\CSharpBasics\Tests\bin\Debug\net6.0\Tests.exe
+C:\Users\Edlejo\source\repos\CSharpBasics\Tests\bin\Debug\net6.0\Tests.deps.json
+C:\Users\Edlejo\source\repos\CSharpBasics\Tests\bin\Debug\net6.0\Tests.runtimeconfig.json
+C:\Users\Edlejo\source\repos\CSharpBasics\Tests\bin\Debug\net6.0\Tests.dll
+C:\Users\Edlejo\source\repos\CSharpBasics\Tests\bin\Debug\net6.0\Tests.pdb
+C:\Users\Edlejo\source\repos\CSharpBasics\Tests\obj\Debug\net6.0\Tests.csproj.AssemblyReference.cache
+C:\Users\Edlejo\source\repos\CSharpBasics\Tests\obj\Debug\net6.0\Tests.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Edlejo\source\repos\CSharpBasics\Tests\obj\Debug\net6.0\Tests.AssemblyInfoInputs.cache
+C:\Users\Edlejo\source\repos\CSharpBasics\Tests\obj\Debug\net6.0\Tests.AssemblyInfo.cs
+C:\Users\Edlejo\source\repos\CSharpBasics\Tests\obj\Debug\net6.0\Tests.csproj.CoreCompileInputs.cache
+C:\Users\Edlejo\source\repos\CSharpBasics\Tests\obj\Debug\net6.0\Tests.dll
+C:\Users\Edlejo\source\repos\CSharpBasics\Tests\obj\Debug\net6.0\refint\Tests.dll
+C:\Users\Edlejo\source\repos\CSharpBasics\Tests\obj\Debug\net6.0\Tests.pdb
+C:\Users\Edlejo\source\repos\CSharpBasics\Tests\obj\Debug\net6.0\Tests.genruntimeconfig.cache
+C:\Users\Edlejo\source\repos\CSharpBasics\Tests\obj\Debug\net6.0\ref\Tests.dll

@@ -1,0 +1,17 @@
+C:\Users\Edlejo\source\repos\CSharpBasics\06_JSON\obj\Debug\net6.0\06_JSON.csproj.AssemblyReference.cache
+C:\Users\Edlejo\source\repos\CSharpBasics\06_JSON\obj\Debug\net6.0\06_JSON.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Edlejo\source\repos\CSharpBasics\06_JSON\obj\Debug\net6.0\06_JSON.AssemblyInfoInputs.cache
+C:\Users\Edlejo\source\repos\CSharpBasics\06_JSON\obj\Debug\net6.0\06_JSON.AssemblyInfo.cs
+C:\Users\Edlejo\source\repos\CSharpBasics\06_JSON\obj\Debug\net6.0\06_JSON.csproj.CoreCompileInputs.cache
+C:\Users\Edlejo\source\repos\CSharpBasics\06_JSON\bin\Debug\net6.0\06_JSON.exe
+C:\Users\Edlejo\source\repos\CSharpBasics\06_JSON\bin\Debug\net6.0\06_JSON.deps.json
+C:\Users\Edlejo\source\repos\CSharpBasics\06_JSON\bin\Debug\net6.0\06_JSON.runtimeconfig.json
+C:\Users\Edlejo\source\repos\CSharpBasics\06_JSON\bin\Debug\net6.0\06_JSON.dll
+C:\Users\Edlejo\source\repos\CSharpBasics\06_JSON\bin\Debug\net6.0\06_JSON.pdb
+C:\Users\Edlejo\source\repos\CSharpBasics\06_JSON\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\Edlejo\source\repos\CSharpBasics\06_JSON\obj\Debug\net6.0\06_JSON.csproj.CopyComplete
+C:\Users\Edlejo\source\repos\CSharpBasics\06_JSON\obj\Debug\net6.0\06_JSON.dll
+C:\Users\Edlejo\source\repos\CSharpBasics\06_JSON\obj\Debug\net6.0\refint\06_JSON.dll
+C:\Users\Edlejo\source\repos\CSharpBasics\06_JSON\obj\Debug\net6.0\06_JSON.pdb
+C:\Users\Edlejo\source\repos\CSharpBasics\06_JSON\obj\Debug\net6.0\06_JSON.genruntimeconfig.cache
+C:\Users\Edlejo\source\repos\CSharpBasics\06_JSON\obj\Debug\net6.0\ref\06_JSON.dll
